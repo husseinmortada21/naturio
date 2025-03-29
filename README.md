@@ -64,3 +64,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Using PHP 8.2.28-nts-Win32-vs16-x64
+Enable extensions
+cp .env.exmaple .env
+
+
+Add to system variables
+install composer
+php artisan migrate
+php artisan serve
+npm install
+npm run dev
